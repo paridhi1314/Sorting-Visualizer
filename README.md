@@ -1,2 +1,13 @@
-# Sorting-Visualizer
-A web app which visualize different sorting algorithm ,built using HTML,CSS,Bootstrap and Javascript
+# Sorting Visualization
+### This is a simple visualization project made using javascript 
+- Bubble Sort 
+- Selection Sort
+- Insertion Sort
+- Quick Sort
+- Merge Sort
+
+### This is built using HTML, CSS,Bootstrap, JavaScript <br/>
+
+[Check out the website here]
+
+
